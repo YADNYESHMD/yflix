@@ -11,10 +11,10 @@ const Header = () => {
         <div className={styles.navbar_brand}>
           <Link href="/">
             <Image
-              src="/logo.png"
+              src="/logo1.png"
               alt="My Logo image"
-              width={150}
-              height={40}
+              width={100}
+              height={100}
             />
           </Link>
         </div>
